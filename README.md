@@ -19,7 +19,7 @@ Os exercícios estão organizados em pastas de acordo com o tipo de problema ou 
 
 - Os arquivos geralmente seguem o padrão: `nome_problema.cpp`
 
-⚠️ Aviso sobre o estilo de código
+## ⚠️ Aviso sobre o estilo de código
 
 O estilo de código adotado nas soluções não segue padrões convencionais de legibilidade ou boas práticas de engenharia de software, como comentários extensivos, nomes descritivos ou organização modular. Isso se deve à natureza da programação competitiva, que exige máxima eficiência em tempo e espaço, tanto na escrita quanto na execução do código.
 
